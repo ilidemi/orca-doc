@@ -2,12 +2,9 @@
 
 Orca is a development platform and runtime environment for cross-platform, sandboxed graphical applications.
 
-[Install]: install.md
-[Quick Start]: QuickStart.md
-
 <div class="text-center">
-<a href="Install" class="btn btn-primary" role="button">Installation</a>
-<a href="Quick Start" class="btn btn-primary" role="button">Quick Start</a>
+<a href="install" class="btn btn-primary" role="button">Installation</a>
+<a href="QuickStart" class="btn btn-primary" role="button">Quick Start</a>
 </div>
 
 ---
