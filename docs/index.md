@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# Welcome to the Orca Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Orca is a development platform and runtime environment for cross-platform, sandboxed graphical applications.
 
-## Commands
+[Install]: install.md
+[Quick Start]: QuickStart.md
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<div class="text-center">
+<a href="Install" class="btn btn-primary" role="button">Installation</a>
+<a href="Quick Start" class="btn btn-primary" role="button">Quick Start</a>
+</div>
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Example Orca apps](images/orca-apps-lg.webp)
+
+In this early MVP you can:
+
+- Receive mouse and keyboard input.
+- Draw paths, images and text using a 2D vector graphics API.
+- Draw 2D/3D graphics using OpenGL ES 3.1 (minus a few features like mapped buffers)
+- Build user interfaces using our UI API and default widgets.
+- Read and write files using a capability-based API.
+
+To learn more about the project and its goals, read the [announcement post](https://orca-app.dev/posts/230607/orca_announcement.html).
+
+
+
